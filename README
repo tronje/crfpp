@@ -1,2 +1,4 @@
-see doc/index.html
+# Building:
 
+Run `./autogen.sh`, followed by `make`. The built `crf_learn` binary should
+appear in the root of the project.
