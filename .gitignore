@@ -1,0 +1,19 @@
+# auto-generated directories
+/.libs/
+/autom4te.cache/
+
+# auto-generated files
+/Makefile
+/config.log
+/config.status
+/libtool
+
+# target binaries
+/crf_learn
+/crf_test
+
+
+# build artefacts
+*.o
+*.lo
+*.la
